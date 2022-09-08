@@ -14,5 +14,5 @@ I learnt mostly how to make a machine learning model, though I also learnt that 
 I collected the data from TensorFlow: https://www.tensorflow.org/datasets/catalog/overview. 
 
 ## Talk about how good my machine learning model is: 
-- accuracy: 0.8735 
-- val_accuracy: 0.1688
+- accuracy: 0.9412 
+- val_accuracy: 0.1807
