@@ -1,4 +1,4 @@
-# Flower_Image_Classifier
+## Flower_Image_Classifier
 This AI image classifier can identify and classify between 102 flowers
 
 # Why did I build this project? 
