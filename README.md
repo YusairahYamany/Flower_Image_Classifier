@@ -2,7 +2,7 @@
 This AI image classifier can identify and classify between 102 flowers
 
 ## Why did I build this project? 
-I built this project mainly because I know most of the people have problems with knowing or classifying flowers. I know there are nature experts here and about, but for those who find it difficult to classify flowers, I hope that my project will be a perfect nature guide for you. h
+I built this project mainly because I know most of the people have problems with knowing or classifying flowers. I know there are nature experts here and about, but for those who find it difficult to classify flowers, I hope that my project will be a perfect nature guide for you. 
 
 ## What problem does it solve? 
 As I already pointed out before, it solves the problems of those who find it hard or challenging to know or classify various types of flowers.
